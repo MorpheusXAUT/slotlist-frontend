@@ -44,7 +44,7 @@
     "click-confirm": "^1.1.0",
     "file-saver": "^1.3.3",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
     "quill": "^1.3.2",
